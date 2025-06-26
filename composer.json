@@ -1,0 +1,8 @@
+{
+    "name": "coolbluei/title",
+    "description": "Makes the Title field configurable",
+    "type": "drupal-module",
+    "require": {
+        "drupal/core": "^8 || ^9 || ^10 || ^11"
+    }
+}
