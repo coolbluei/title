@@ -1,0 +1,5 @@
+name: Title
+type: module
+description: 'Convert titles into fields which can be display manipulated.'
+core_version_requirement: ^8 || ^9 || ^10 || ^11
+package: Custom
